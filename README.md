@@ -10,7 +10,7 @@ Explore the dynamic landscape of political conflicts in Africa through this inte
   
 ## Page 1: General Overview
 
-![General Overview](images\Thumbnail.png)
+![General Overview](images/Thumbnail.png)
 
 This page provides a holistic snapshot of political conflicts in Africa. Key features include:
 
@@ -25,7 +25,7 @@ This comprehensive overview allows users to quickly grasp the magnitude, distrib
 
 ## Page 2: Country Spotlight
 
-![Country Spotlight](2nd_Page.png)
+![Country Spotlight](images/2nd_Page.png)
 
 This page offers a focused exploration of political conflicts in a selected country using a clear country slicer. Key features include:
 
@@ -37,7 +37,7 @@ Utilize the country slicer to filter and gain a nuanced understanding of politic
 
 ## Page 3: Event Types Analysis
 
-![Event Types Analysis](3rd_image.png)
+![Event Types Analysis](images/3rd_image.png)
 
 This page delves into a detailed analysis of political events by different types. Key components include:
 
@@ -50,7 +50,7 @@ Leverage the event type slicer to tailor your analysis and gain deeper insights 
 
 ## Page 4: Specific Events
 
-![Specific Events](fourth_image.png)
+![Specific Events](images/fourth_image.png)
 
 This page is tailored for a deep dive into specific political incidents. Utilizing slicers for country, city, and date, users can pinpoint events of interest. Key components include:
 
