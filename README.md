@@ -4,13 +4,13 @@ Explore the dynamic landscape of political conflicts in Africa through this inte
 
 ## Dashboard Overview
 
-![Dashboard Cover](Thumbnail.png)
+![Dashboard Cover](images/Thumbnail.png)
 
 - **Link to Dashboard:** [Explore the Dashboard](https://shorturl.at/buDEX)
   
 ## Page 1: General Overview
 
-![General Overview](Thumbnail.png)
+![General Overview](images\Thumbnail.png)
 
 This page provides a holistic snapshot of political conflicts in Africa. Key features include:
 
