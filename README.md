@@ -62,7 +62,7 @@ Leverage the slicers to narrow down your focus and gain in-depth insights into p
 
 ## Kaggle Data
 
-- **Link to Kaggle Data:** [Political Conflicts in Africa]([link_to_kaggle_data](https://www.kaggle.com/datasets/robertoberwa/conflicts-in-africa-from-19972018/data))
+- **Link to Kaggle Data:** [Political Conflicts in Africa](https://www.kaggle.com/datasets/robertoberwa/conflicts-in-africa-from-19972018/data)
 
 ## How to Use
 
@@ -82,6 +82,6 @@ This project was created using Power BI, and the data analysis was performed wit
 
 Let's discuss the findings and insights! Connect with me on LinkedIn or open an issue here.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue.svg)](https://www.linkedin.com/in/mahmoudyaseenn/)https://www.linkedin.com/in/mahmoudyaseenn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MahmoudYaseenn-blue.svg)](https://www.linkedin.com/in/mahmoudyaseenn/)
 
 Happy exploring! 🌍💡
